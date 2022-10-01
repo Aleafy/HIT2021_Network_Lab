@@ -1,0 +1,7 @@
+timeout=1000
+user_filter=true
+web_filter=true
+web_guide=true
+web_filter:cs.hit.edu.cn
+user_filter:127.0.0.2
+web_guide:jwes.hit.edu.cn jwc.hit.edu.cn
